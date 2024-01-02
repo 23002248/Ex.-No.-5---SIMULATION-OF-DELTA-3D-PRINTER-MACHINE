@@ -1,6 +1,6 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
+### DATE: 30.10.2023
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -34,7 +34,7 @@ ssets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 ![Screenshot 2023-11-27 135025](https://github.com/23002248/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/151701774/b08f0940-a6ca-49bb-84c8-d042a7b9b8db)
 
 ### Name: stephen raj.y
-### Register Number:23002248
+### Register Number:212223230217
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
